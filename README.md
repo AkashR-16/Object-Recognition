@@ -26,4 +26,14 @@ Before using this script, you need to download the following model files and cla
 - **Model configuration:** [ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt](https://github.com/opencv/opencv/blob/master/samples/data/ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt)
 - **Class labels:** [coco_names.txt](https://github.com/opencv/opencv/blob/master/samples/data/coco_names.txt)
 
+## Usage
 
+1. Run the script:
+
+   ```shell
+   python object_detection.py
+2.When prompted, enter the path to the input image you want to analyze. Press Enter to continue.
+
+3.The script will load the image, perform object detection, and display the result in a new window. Detected objects will be outlined with bounding boxes and labeled with their names and confidence scores.
+
+4.To close the image window, press any key.
