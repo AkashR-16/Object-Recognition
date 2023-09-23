@@ -12,17 +12,9 @@ Before using this script, ensure you have the following dependencies installed:
 ## Installation
 
 1. Clone this repository to your local machine:
-
    ```shell
    git clone https://github.com/your-username/object-detection-opencv.git
 2.Navigate to the repository's directory:
-
    ```shell
    cd object-detection-opencv
 
-3. Download the necessary model files and class labels:
-
-Model weights: frozen_inference_graph.pb
-Model configuration: ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt
-Class labels: coco_names.txt
-Place these files in the models/ directory within the repository.
