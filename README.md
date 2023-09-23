@@ -37,5 +37,5 @@ Before using this script, you need to download the following model files and cla
 4. To close the image window, press any key.
 
 ## Example Image 
-![ObjDetection Example](objDet.png) 
+![objDet](https://github.com/AkashR-16/Object-Recognition/assets/99939852/8cd90b8a-0c23-4805-b256-f9ab50288a8c)
 
