@@ -35,3 +35,7 @@ Before using this script, you need to download the following model files and cla
 3. The script will load the image, perform object detection, and display the result in a new window. Detected objects will be outlined with bounding boxes and labeled with their names and confidence scores.
 
 4. To close the image window, press any key.
+
+## Example Image 
+![ObjDetection Example](C:\Users\Akash\OneDrive\Pictures\Screenshots\objDet.png)
+
