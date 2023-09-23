@@ -37,5 +37,5 @@ Before using this script, you need to download the following model files and cla
 4. To close the image window, press any key.
 
 ## Example Image 
-![ObjDetection Example](objDet.png)
+![ObjDetection Example](objDet.png) 
 
