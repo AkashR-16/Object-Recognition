@@ -15,3 +15,8 @@ Before using this script, ensure you have the following dependencies installed:
 
    ```shell
    git clone https://github.com/your-username/object-detection-opencv.git
+2.Navigate to the repository's directory:
+
+```shell
+cd object-detection-opencv
+
