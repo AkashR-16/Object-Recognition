@@ -12,9 +12,18 @@ Before using this script, ensure you have the following dependencies installed:
 ## Installation
 
 1. Clone this repository to your local machine:
-   ```shell
+   ``` shell
    git clone https://github.com/your-username/object-detection-opencv.git
-2.Navigate to the repository's directory:
-   ```shell
+2. Navigate to the repository's directory:
+   ``` shell
    cd object-detection-opencv
+
+3. Download the Necessary Model Files and Class Labels
+
+Before using this script, you need to download the following model files and class labels and place them in the `models/` directory within the repository:
+
+- **Model weights:** [frozen_inference_graph.pb](https://github.com/opencv/opencv/wiki/TensorFlow-Object-Detection-API#use-existing-config-file-for-your-model)
+- **Model configuration:** [ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt](https://github.com/opencv/opencv/blob/master/samples/data/ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt)
+- **Class labels:** [coco_names.txt](https://github.com/opencv/opencv/blob/master/samples/data/coco_names.txt)
+
 
